@@ -134,7 +134,12 @@ body{
     width: 100%;
 }
 .presentacion_boton_link{
-    width: 50%;
+    width: auto;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
 }
 
 }
