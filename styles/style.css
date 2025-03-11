@@ -101,7 +101,7 @@ body{
 
 .presentacion_boton_link:hover{
     background-color: var(--color-hover);
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 .footer{
@@ -133,4 +133,8 @@ body{
 .presentacion_contenido{
     width: 100%;
 }
+.presentacion_boton_link{
+    width: 50%;
+}
+
 }
